@@ -98,7 +98,6 @@ int main() {
             return 1;
         }
         cout << "-----------------------------------------" << endl;
-        cout << "Run #" << (repeat + 1) << " complete.\n" << endl;
     }
     return 0; // telos programmatos
 }
